@@ -60,8 +60,6 @@ Main areas covered:
 - Computational modeling (biomedical and physical systems)  
 - Data processing and automation (Excel/VBA)
 
-Designed as a **technical portfolio for quant / modelling roles**.
-
 ---
 
 ## ⚠ Notas
