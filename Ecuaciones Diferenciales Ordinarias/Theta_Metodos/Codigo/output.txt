@@ -1,0 +1,48 @@
+***** DATA *****
+* Initial (left) extremum: 
+a = 0.00000E+00.
+
+* Final (right) extremum: 
+b = 5.00000E+00.
+
+* Initial condition: 
+eta = 1.00000E+00 
+
+* Number of nodes of the mesh: 
+N = 100. 
+
+* Display frequency: 
+dfreq = 10 (to avoid displaying too many lines, results are shown only for
+the first node, the last node, and when node number is a multiple of dfreq).
+
+* Plot frequency: 
+plfreq = 2 (to avoid plotting too many points, results are plotted only for
+the first node, the last node, and when node number is a multiple of plfreq).
+
+* Option for exact solution: 
+ex = 1 (the exact solution is known).>>> Theta Value:
+    th = 0.5
+
+>>> Convergence Method Option:
+    option = 2 (Newton Method)
+
+>>> Maximum Iterations:
+    maxit = 20
+
+>>> Epsilon Value for Stopping Criteria:
+    epsi = 1.00E-14
+
+>>> Delta Value for Stopping Criteria:
+    delta = 1.00E-14
+
+===========================
+       END OF DATA
+===========================
+
+
+**** COMPUTATION ****
+Dimension of the problem: 
+m = 1.
+
+Step size: 
+h = (b-a)/(N-1) = 5.05051E-02.
