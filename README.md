@@ -1,8 +1,8 @@
 # 📚 Máster en Matemática Industrial — Portfolio de Proyectos
 
-Este repositorio contiene proyectos desarrollados durante el **Máster en Matemática Industrial**. Incluye trabajos en **MATLAB**, **Python** y **VBA/Excel** relacionados con modelización numérica, ecuaciones diferenciales, biomatemática y finanzas cuantitativas.
+Este repositorio contiene proyectos desarrollados durante el **Máster en Matemática Industrial**. Incluye trabajos en **MATLAB**, **Python** y **VBA/Excel** relacionados con modelización numérica, ecuaciones diferenciales, biomatemática y **finanzas cuantitativas**.
 
-Está organizado por asignaturas, cada una con prácticas, informes y código fuente.
+> **Enfoque principal:** aplicaciones computacionales a mercados financieros, pricing de derivados, simulación estocástica y modelización matemática.
 
 ---
 
@@ -10,23 +10,31 @@ Está organizado por asignaturas, cada una con prácticas, informes y código fu
 
 | Asignatura | Lenguajes | Contenido |
 |------------|-----------|-----------|
-| **Ecuaciones Diferenciales Ordinarias** | MATLAB | Métodos multipaso, métodos de θ, análisis de estabilidad y convergencia. |
-| **Métodos Numéricos Estocásticos** | MATLAB, PDF | Simulación de procesos estocásticos, esquemas numéricos y entrega final. |
-| **Métodos Numéricos y Programación** | MATLAB | Implementaciones numéricas básicas, ejercicios introductorios. |
-| **Modelización en Biomedicina** | Python | Modelos dinámicos en biología, ecuaciones de reacción-difusión, análisis numérico. |
-| **Problemas Inversos y Reconstrucción de Imágenes** | MATLAB | Reconstrucción algebraica, bases de datos, ecuaciones del calor hacia atrás. |
-| **Software Profesional en Finanzas** | Python, MATLAB, VBA | Automatización financiera, pricing, manipulación de datos y herramientas para mercados. |
+| **Ecuaciones Diferenciales Ordinarias** | MATLAB | Métodos multipaso, métodos de θ, estabilidad y convergencia. |
+| **Métodos Numéricos Estocásticos** | MATLAB | Simulación de procesos estocásticos, esquemas numéricos, entornos aleatorios. |
+| **Métodos Numéricos y Programación** | MATLAB | Implementaciones básicas numéricas, ejercicios introductorios. |
+| **Modelización en Biomedicina** | Python | Modelos dinámicos, difusión, reacción-diffusión, análisis numérico aplicado. |
+| **Problemas Inversos y Reconstrucción de Imágenes** | MATLAB | Reconstrucción algebraica, problemas mal condicionados, ecuaciones del calor hacia atrás. |
+| **Software Profesional en Finanzas** | Python, MATLAB, VBA | Pricing de derivados, automatización financiera, herramientas de mercado. 🔥 **(principal)** |
 
-📁 Las carpetas mantienen los nombres de las asignaturas oficiales del máster.
+📁 Las carpetas corresponden a las asignaturas oficiales del máster.
 
 ---
 
 ## 🧪 Tecnologías utilizadas
 
-- **Python**: NumPy, SciPy, Matplotlib, pandas
-- **MATLAB**: Métodos numéricos, simulación, gráficos y análisis
-- **Excel / VBA**
-- Control de versiones con **Git / GitHub**
+### 📌 Lenguajes
+- **Python** (NumPy, SciPy, Matplotlib, pandas)
+- **MATLAB** (simulación, análisis numérico, gráficas)
+- **VBA / Excel**
+- *(También se trabajó Fortran en métodos numéricos aunque no se incluye en este repo)*
+
+### 📌 Competencias técnicas
+- Modelos numéricos para EDO y EDP
+- Monte Carlo y discretización de procesos estocásticos
+- Pricing de derivados y algoritmos de mercado
+- Optimización y resolución de problemas mal condicionados
+- Visualización científica
 
 ---
 
@@ -34,21 +42,32 @@ Está organizado por asignaturas, cada una con prácticas, informes y código fu
 
 Este repositorio sirve como **portfolio técnico** para roles relacionados con:
 
-- Matemática aplicada
-- Ingeniería financiera / Quant
-- Modelización y simulación
-- Data science y análisis computacional
+- Ingeniería financiera / *Quantitative Analysis*
+- Modelización matemática y simulación
+- Data science aplicado
+- Matemática aplicada a la industria
+
+---
+
+## 🌍 **English Summary**
+
+This repository contains coursework from the **Master's in Industrial Mathematics (Spain)**, including projects in **Python, MATLAB, and VBA** focused on numerical methods, differential equations, inverse problems and **quantitative finance applications**.
+
+Main areas covered:
+
+- Numerical pricing of derivatives  
+- Monte Carlo simulation and stochastic models  
+- Computational modeling (biomedical and physical systems)  
+- Data processing and automation (Excel/VBA)
 
 ---
 
 ## ⚠ Notas
 
-- Los proyectos son académicos.
-- Algunos ejercicios contienen datasets o prácticas resumidas.
-- El código puede acompañarse de informes en PDF dentro de cada carpeta.
-- Cabe recalcar que en Métodos numéricos tratamos también programas en Fortran.
+- Proyectos académicos.
+- Algunos entregables incluyen informes y datasets.
+- Código organizado en carpetas por asignatura.
 
 ---
 
 ¡Gracias por visitar este portfolio!
-
