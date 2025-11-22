@@ -46,6 +46,7 @@ Este repositorio sirve como **portfolio técnico** para roles relacionados con:
 - Los proyectos son académicos.
 - Algunos ejercicios contienen datasets o prácticas resumidas.
 - El código puede acompañarse de informes en PDF dentro de cada carpeta.
+- Cabe recalcar que en Métodos numéricos tratamos también programas en Fortran.
 
 ---
 
